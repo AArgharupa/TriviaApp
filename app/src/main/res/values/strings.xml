@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="title">Trivia</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="count">0 out of 100</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">next Button</string>
+    <string name="counter">/</string>
+    <string name="Loading">Loading.......</string>
+    <string name="Correct">Correct</string>
+    <string name="Wrong">Wrong</string>
+    <string name="go">Go</string>
+    <string name="playAgain">Play Again</string>
+    <string name="_100_900">100 / 900</string>
+    <string name="highest_score">Highest Score: 00</string>
+    <string name="timer">00:</string>
+    <string name="highScore">Highest Score: 000</string>
+
+</resources>
