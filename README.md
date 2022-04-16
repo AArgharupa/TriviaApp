@@ -37,7 +37,7 @@ This is Trivia Quiz Game.
  
 
 ## Download
-Download the Apk file on your Android phone and just install the App/Quiz via it. In case the "Install from Unknown source" is off, please on the feature and install the app. Enjoy!!
+Download the Apk file named "app-debug.apk" on your Android phone and just install the App/Quiz via it. In case the "Install from Unknown source" is off, please on the feature and install the app. Enjoy!!
 
 ### Through this project I've learned -
 * **Android animations(Rotate, alpha)**
